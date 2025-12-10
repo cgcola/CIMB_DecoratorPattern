@@ -97,3 +97,9 @@ public class Cimb {
 		System.out.println("Benefits: " + upSave.showBenefits());
 	}
 }
+```
+
+---
+
+## UML Class Diagram:
+<img width="3409" height="3401" alt="DecoratorPattern_LabAssignment7" src="https://github.com/user-attachments/assets/d238db87-8b04-493c-a5f4-dd478d1bdee6" />
