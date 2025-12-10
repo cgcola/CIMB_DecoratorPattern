@@ -25,7 +25,8 @@ Develop a **Decorator Pattern** approach that will implement the provided UML di
 
 ### Constraints & Rules
 1.  **Strict UML Adherence:** Follow the provided UML diagram structure.
-![Uploading image.png…]()
+<img width="800" height="539" alt="LabAssignment7_GivenUML" src="https://github.com/user-attachments/assets/9b9488de-b40c-4e66-82ff-738634e72648" />
+
 2.  **Interface Requirement:** `BankAcountDecorator` must be an interface.
 3.  **Method Restrictions:** You are **not allowed** to insert other methods except what is stated in the diagram (setters and getters are allowed).
 4.  **Driver Class:** The content of your `Cimb.java` should **ONLY** contain the provided code (see below) with the exception of inserting your own package name.
@@ -33,7 +34,7 @@ Develop a **Decorator Pattern** approach that will implement the provided UML di
 ---
 
 ## Expected Output:
-![Uploading image.png…]()
+<img width="785" height="743" alt="LabAssignment7_ExpectedOutput" src="https://github.com/user-attachments/assets/5869a9e3-7318-48fa-baea-1c240154f326" />
 
 ---
 
