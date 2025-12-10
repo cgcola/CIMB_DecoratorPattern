@@ -59,7 +59,7 @@ The following methods must be implemented as described:
 
 ---
 
-## Provided Driver Code (`Cimb.java`)
+## Provided Driver Code (`CIMB.java`)
 
 ```java
 public class Cimb {
